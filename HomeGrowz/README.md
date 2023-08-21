@@ -1,4 +1,0 @@
-
-# HomeGrowz
-when going through the app you will first land on the home page to access the features available, you must swipe right. there is a my_plant page where one could put their 
-plants into a list name them and then add a picture of the plant. next page will use https://www.perenual.com/docs/api to get one out of 3 plants daily. i do have a timer for this but i dumbed it down to around 30 seconds for easier view of functionality. last we have the plant search page which in theory should be able to return the name of the plant youve taken a picture of. in all honesty it does not work completely because this is a machine learning problem and i would need to invest time into making models for said plants to raise confidence and become more accurate at guessing. there is a custom app bar that needs work but for what it is, it looks pretty nice.
